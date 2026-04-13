@@ -2,7 +2,7 @@
 
 An interactive water quality mapping tool for New Mexico, built with publicly available state and federal drinking water data. The project fetches, normalizes, and visualizes contaminant sampling results from regulated public water systems across the state.
 
-The live map is available at: [*(add your AGOL app link here)*](https://nmhu.maps.arcgis.com/apps/instant/basic/index.html?appid=bfc0690e23fd4279b557511bf7cc3a25)
+The live map is available at: [*AGOL app link *](https://nmhu.maps.arcgis.com/apps/instant/basic/index.html?appid=bfc0690e23fd4279b557511bf7cc3a25)
 
 ---
 
